@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Database connections",
+    "description": "Manages PostgreSQL, Redis, MinIO, and Milvus connection settings with pooled access, health checks, and automatic reconnects."
+  }
+}

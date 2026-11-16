@@ -1,0 +1,3 @@
+- insert:
+    - id: database-config
+      name: dsh-database-config

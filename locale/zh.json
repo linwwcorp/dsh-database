@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "数据库连接",
+    "description": "管理 PostgreSQL、Redis、MinIO 与 Milvus 的连接信息，提供连接池、健康检查和自动重连。"
+  }
+}
